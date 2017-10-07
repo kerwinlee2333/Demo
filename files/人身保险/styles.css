@@ -98,8 +98,8 @@
 }
 #u146 {
   position:absolute;
-  left:66px;
-  top:418px;
+  left:71px;
+  top:419px;
   width:91px;
   height:14px;
   font-family:'新宋体 常规', '新宋体';
@@ -134,8 +134,8 @@
 }
 #u148 {
   position:absolute;
-  left:64px;
-  top:397px;
+  left:71px;
+  top:395px;
   width:75px;
   height:20px;
   font-family:'新宋体 常规', '新宋体';
@@ -158,7 +158,7 @@
 }
 #u150 {
   position:absolute;
-  left:5px;
+  left:15px;
   top:386px;
   width:51px;
   height:52px;
@@ -191,7 +191,7 @@
 #u152 {
   position:absolute;
   left:15px;
-  top:364px;
+  top:360px;
   width:81px;
   height:18px;
   font-family:'新宋体 常规', '新宋体';
@@ -262,8 +262,8 @@
 }
 #u157 {
   position:absolute;
-  left:66px;
-  top:316px;
+  left:71px;
+  top:319px;
   width:78px;
   height:14px;
   font-family:'新宋体 常规', '新宋体';
@@ -298,8 +298,8 @@
 }
 #u159 {
   position:absolute;
-  left:64px;
-  top:295px;
+  left:71px;
+  top:293px;
   width:75px;
   height:20px;
   font-family:'新宋体 常规', '新宋体';
@@ -322,7 +322,7 @@
 }
 #u161 {
   position:absolute;
-  left:5px;
+  left:15px;
   top:285px;
   width:51px;
   height:52px;
@@ -355,7 +355,7 @@
 #u163 {
   position:absolute;
   left:15px;
-  top:262px;
+  top:260px;
   width:81px;
   height:18px;
   font-family:'新宋体 常规', '新宋体';
@@ -426,7 +426,7 @@
 }
 #u168 {
   position:absolute;
-  left:66px;
+  left:71px;
   top:218px;
   width:91px;
   height:14px;
@@ -462,8 +462,8 @@
 }
 #u170 {
   position:absolute;
-  left:64px;
-  top:197px;
+  left:69px;
+  top:192px;
   width:75px;
   height:20px;
   font-family:'新宋体 常规', '新宋体';
@@ -486,8 +486,8 @@
 }
 #u172 {
   position:absolute;
-  left:5px;
-  top:186px;
+  left:15px;
+  top:184px;
   width:51px;
   height:52px;
 }
@@ -519,7 +519,7 @@
 #u174 {
   position:absolute;
   left:15px;
-  top:164px;
+  top:159px;
   width:81px;
   height:18px;
   font-family:'新宋体 常规', '新宋体';
@@ -590,7 +590,7 @@
 }
 #u179 {
   position:absolute;
-  left:66px;
+  left:71px;
   top:116px;
   width:103px;
   height:14px;
@@ -626,8 +626,8 @@
 }
 #u181 {
   position:absolute;
-  left:64px;
-  top:95px;
+  left:69px;
+  top:92px;
   width:56px;
   height:20px;
   font-family:'新宋体 常规', '新宋体';
@@ -650,8 +650,8 @@
 }
 #u183 {
   position:absolute;
-  left:5px;
-  top:86px;
+  left:13px;
+  top:83px;
   width:51px;
   height:52px;
 }
@@ -683,7 +683,7 @@
 #u185 {
   position:absolute;
   left:15px;
-  top:62px;
+  top:59px;
   width:81px;
   height:18px;
   font-family:'新宋体 常规', '新宋体';
@@ -769,21 +769,57 @@
   width:75px;
   white-space:nowrap;
 }
-#u192_img {
+#u192 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u193_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:34px;
+  height:37px;
+  background:inherit;
+  background-color:rgba(52, 152, 219, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u193 {
+  position:absolute;
+  left:5px;
+  top:7px;
+  width:34px;
+  height:37px;
+}
+#u194 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:30px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u195_img {
   position:absolute;
   left:0px;
   top:0px;
   width:9px;
   height:17px;
 }
-#u192 {
+#u195 {
   position:absolute;
   left:15px;
   top:17px;
   width:9px;
   height:17px;
 }
-#u193 {
+#u196 {
   position:absolute;
   left:2px;
   top:0px;
